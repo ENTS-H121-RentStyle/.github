@@ -1,6 +1,6 @@
 ## Capstone Project Entrepreneur Track | *RentStyle: Your Ultimate Fashion Rental App* 👗👘👔👓
 
-## *ENTS-H121*
+## 🚀*ENTS-H121*
  
 ## 🧑‍💻 Members: 
 
