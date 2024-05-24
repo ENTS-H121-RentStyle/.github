@@ -23,7 +23,7 @@ RentStyle is not just an ordinary app to rent clothes, it’s also a source of i
 ## 📚 Repositories
 
 ### *Mobile Development* 📱 
-* *[rentstyle](https://github.com/ENTS-H121-RentStyle/)*
+* *[rentstyle-app]([https://github.com/ENTS-H121-RentStyle/](https://github.com/ENTS-H121-RentStyle/rentstyle-app))*
 
 ### *Cloud Computing* ☁️
 * *[rentstyle-backend](https://github.com/ENTS-H121-RentStyle/rentstyle-backend)*
